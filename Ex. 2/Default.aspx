@@ -22,8 +22,8 @@
         </asp:DropDownList></td>
     <td><asp:DropDownList ID="ddlService" runat="server">
             <asp:ListItem Value="125">Makeover($125)</asp:ListItem>
-            <asp:ListItem Value="60">Hairstyle($60)</asp:ListItem>
-            <asp:ListItem Value="35">Manicure($35)</asp:ListItem>
+            <asp:ListItem Value="60">Hairstyle($70)</asp:ListItem>
+            <asp:ListItem Value="35">Manicure($45)</asp:ListItem>
             <asp:ListItem Value="200">Permanent Makeup($200)</asp:ListItem>
         </asp:DropDownList></td>
     </tr>
